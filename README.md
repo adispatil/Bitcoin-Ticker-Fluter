@@ -7,7 +7,7 @@ This is flutter app to know the current rate of Bitcoin, Dogecoin, Etherium like
 To learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
 
 # What I have developed in this app
-This is crypto currency price checking app screenshot.
+This is crypto currency price checking app. I have used https://docs.coinapi.io/#get-specific-rate apis for getting current values of crypto currency. 
 
 ### Landing Screen
 <p float="left">
@@ -22,4 +22,3 @@ This is crypto currency price checking app screenshot.
 * How to loop through code using Dart for and for-in loops.
 * How to use Cupertino Widgets in your app.
 * How to check the platform your app is being run on to customise the UI for that platform.
-* Revise previous concepts by completing the challenges.
