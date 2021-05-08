@@ -9,6 +9,12 @@ To learn about using Cupertino and Material Widgets in parallel and providing a 
 # What I have developed in this app
 This is crypto currency price checking app screenshot.
 
+### Landing Screen
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/34621423/117530045-a6325a00-aff8-11eb-88b1-8f0deea36d5d.png" width="300" height="650" hspace="20"/> 
+  <img src="https://user-images.githubusercontent.com/34621423/117530046-a7fc1d80-aff8-11eb-8c54-8579a79e0176.png" width="300" height="650" hspace="20"/>
+</p>
+
 
 
 # What I learnt from this app
